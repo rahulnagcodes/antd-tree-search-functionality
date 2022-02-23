@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.site-tree-search-value {
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  background-color: rgb(255, 253, 129);
+  border-radius: 5px;
+}
+[data-theme="dark"] .site-tree-search-value {
+  color: #d84a1b;
+}
